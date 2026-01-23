@@ -4,6 +4,6 @@ i have put a place holder for only the **profile picture** but everything else i
 
 Learnt Technologies: HTML, CSS
 
-To Add: JS, Projects-Page, Project-Page-CSS, Home-Page-Projects, Add things to Home-Page Hyperlinks
+To Add: JS, Projects-Page, Project-Page-CSS, Home-Page-Projects, Add things to Home-Page Hyperlinks, The "libary"
 
 Last Updated: 17/12/25
